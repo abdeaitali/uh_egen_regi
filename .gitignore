@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# no CSV or Excel files
+*.csv
+*.xls
+*.xlsx
+
+# no tar.gz files
+*.tar.gz
+
+# no power Bi files
+*.pbix
+
+
 # C extensions
 *.so
 

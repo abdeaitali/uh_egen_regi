@@ -1,0 +1,18 @@
+Finns inte som plats_sign (solution replace in TCR_T24_macthed Excel file)!
+* Sär -> corresponds to Sävenäs which is referred to in the dictionary as Gsv or Göteborg Sävenäs
+* Gäb -> corresponds to Gävle GBG which is referred to in the dictionary as Gä
+* M -> corresponds to Malmö central which is referred to in the dictionary as Mc
+* V -> corresponds to Värnamo which is referred to in the dictionary as Väc
+Others not found in the dictionary such as
+* Gsh ->  Skandiahamnen Pöb Pölsebo
+- Sta
+- Öb
+- Kvf
+- Fgn -> Fgc/Fagersta central (solution: added redundant row Fgn to förbindelselinje_2024 Excel)
+- Äbgb
+
+
+
+
+Förbättra matchning med tanke på
+- Förbind_list kan sträcka över mer än en bandel. (det hanteras redan, om rutt inte hittas skapas en större graf).
