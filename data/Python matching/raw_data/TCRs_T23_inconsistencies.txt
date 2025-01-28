@@ -3,5 +3,28 @@ Finns inte som plats_sign i förbindelselist T23:
 - Bdb
 - Det finns yterligare 80 exempel så som Tgs, Öjr, Imr ...
 
+['Bjgr', 'Kogr', 'Mdm', 'Rus']
 
 
+
+* Manual replacement of inexisting trafikplats
+
+* Servicefönster Stenkumla-Runsala
+Rus is missing
+	>> solution: replace Rus with Skm (Stenkumla)
+
+
+
+* Servicefönster Underhåll (Runsala) - (Degerön)
+Rus and Mdm are missing
+	>> Solution: remove Mdm and replace Rus with with Skm (Stenkumla)
+
+* Replace Bjgr with Bjf 
+
+* Replace Kogr with Ko
+
+
+
+In the förbind_list, some stations could not be found in the graph
+* Replace "Tul" with closest "Uts"
+* Replace "-(Sta)" with closest "-Hu", and replace "-Sta" with "-(Hu)"
